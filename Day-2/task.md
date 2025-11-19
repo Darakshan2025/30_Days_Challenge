@@ -83,3 +83,6 @@ Part C — Multiple Choice Questions
 3. B
 4. B
 5. C
+
+
+![Alt Text](./assets/image.png) 
